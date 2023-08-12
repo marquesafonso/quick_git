@@ -23,4 +23,4 @@ catch {
     exit 1
 }
 
-Write-Output "Quick merge completed successfully!"
+Write-Output "Quick push completed successfully!"
