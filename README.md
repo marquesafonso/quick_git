@@ -1,7 +1,7 @@
 # quick_git
 A set of Powershell commands to simplify a two-branch (main, dev) git workflow. Suitable for individual projects where one follows a linear commit history and works in the dev branch.
 <p align="center">
-    <img height=300 width=450 src="https://i.kym-cdn.com/entries/icons/original/000/028/021/work.jpg">
+    <img height=150 width=150 src="https://i.kym-cdn.com/entries/icons/original/000/028/021/work.jpg">
 </p>
 
 #  Usage
